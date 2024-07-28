@@ -2,7 +2,7 @@
   
 <p align="center">
     <a href="https://login.sacruda.nl/" target="_blank" rel="noopener">
-        <img src="https://github.com/user-attachments/assets/d2568ec8-fa4c-49ce-b446-2ec47c479df6" width="768px"/>
+        <img src="https://github.com/user-attachments/assets/c5aba244-4add-4873-b83d-9f91b4b6a6bf" width="768px"/>
     </a>
 </p>
 
