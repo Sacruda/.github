@@ -8,6 +8,14 @@
 
 [English](README.md) | [Nederlands](LEESMIJ.md)
 
+---
+
+> ### Belangrijke Opmerking
+>
+> Sacruda is nog onder actieve ontwikkeling. Alle nieuwe registraties zullen handmatig door een Administrator worden goedgekeurd voordat je toegang krijgt tot jouw account. Dit doen wij om ongewenste accounts te vermijden. Dankjewel voor je begrip.
+>
+> **Sacruda is hopelijk stabiel vanaf __25 augustus 2024__**!
+
 </div>
 
 Welkom bij Sacruda! Sacruda is _het_ gereedschap om overzicht te houden van je opdrachten. We weten hoe moeilijk het kan zijn om je hoofd leeg te houden gedurende je studie. Om die reden hebben we Sacruda ontworpen om jou daarbij te helpen. Hopelijk helpt Sacruda jou net zo veel als het ons helpt met _onze_ studie. Dit project is van studenten, voor studenten.
