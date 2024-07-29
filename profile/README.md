@@ -8,7 +8,16 @@
 
 [English](README.md) | [Nederlands](LEESMIJ.md)
 
+---
+
+> ### Important Notice
+> 
+> Sacruda is currently still in active development. All new registrations will have to be manually approved by an administrator before you're allowed to access your Sacruda account. This is to ensure that no unwanted accounts are created. Thank you for your patience.
+>
+> **Sacruda is set to become Stable on __the 25th of August, 2024__**!
+
 </div>
+
 
 Welcome to Sacruda! Sacruda is _the_ tool to keep track of your school assignments and exams. We know how hard it can be to keep a clear head when progressing through your course, so we designed Sacruda to help you keep that head of yours clear. Hopefully Sacruda will help you as much as it helps us students in finishing _our_ courses. This project is from students, for students.
 
