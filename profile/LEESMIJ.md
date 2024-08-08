@@ -36,6 +36,9 @@ Dit klinkt misschien allemaal heel mooi, maar erover lezen gaat jou niet overtui
 GitHub is waar we samen werken om Sacruda zo goed als mogelijk te maken. Er zullen wat openbare projecten zijn, maar ook een hoop privé. Zelfs als je ze niet kan zien: Deze GitHub organisatie bevat:
 
 - De Sacruda web applicatie: https://sacruda.nl/
-- De mobiele web applicatie: https://m.sacruda.nl/ (tot op heden inactief)
+- De mobiele web applicatie: https://m.sacruda.nl/
 - De Inlogpagina: https://login.sacruda.nl/
 - De Sacruda Server: https://api.sacruda.nl/
+- Sacruda Administratie: https://admin.sacruda.nl/
+- Sacruda Discord Bot
+- Sacruda Legacy
