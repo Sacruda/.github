@@ -6,7 +6,7 @@
     </a>
 </p>
 
-[English](README.md) | [Nederlands](LEESMIJ.md)
+[English](README-EN.md) | [Nederlands](README.md)
 
 </div>
 
