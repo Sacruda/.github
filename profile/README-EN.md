@@ -37,7 +37,8 @@ This all sounds well and good, but reading about it isn't going to convince you.
 
 GitHub is the place we work with each other to make Sacruda the best we possibly can. There will be some public repositories, but also a lot of private codebases. Even if you can't see them: This GitHub Organization holds:
 
-- The Sacruda web application: https://sacruda.nl/
+- The Sacruda website: https://sacruda.nl/
+- The Sacruda web application: https://app.sacruda.nl/
 - The Mobile web application: https://m.sacruda.nl/
 - The Login Page: https://login.sacruda.nl/
 - The Sacruda server: https://api.sacruda.nl/
